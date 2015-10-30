@@ -1,0 +1,15 @@
+{
+  "crawlTemplate" : [ "archiveofourown.org/" ],
+  "dataTemplate" : [ "archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works{query-string?}$" ],
+  "destination" : "CSV",
+  "maxDepth" : 10,
+  "startUrls" : [ "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works?page=5", "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works?page=2", "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works?page=4", "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works?page=3", "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works" ],
+  "advancedMode" : true,
+  "local" : false,
+  "connections" : 3,
+  "connectorGuid" : "0436d508-269e-42a0-bb00-3ae9345da8db",
+  "pause" : 1,
+  "canonicalDisabled" : false,
+  "cookiesEnabled" : false,
+  "robotsDisabled" : false
+}

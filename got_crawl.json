@@ -1,0 +1,62 @@
+{
+offset: 0,
+results: [ ],
+cookies: [ ],
+connectorVersionGuid: "d8adabdd-726a-4798-80bc-2624d6c95508",
+connectorGuid: "5972044f-73ad-4a02-8e83-d092861a9d57",
+pageUrl: "https://archiveofourown.org/tags/Game%20of%20Thrones%20(TV)/works",
+outputProperties: [
+{
+name: "title",
+type: "STRING"
+},
+{
+name: "author",
+type: "STRING"
+},
+{
+name: "fandoms",
+type: "STRING"
+},
+{
+name: "date_updated",
+type: "DATE"
+},
+{
+name: "tags",
+type: "STRING"
+},
+{
+name: "summary",
+type: "STRING"
+},
+{
+name: "language",
+type: "STRING"
+},
+{
+name: "words",
+type: "INT"
+},
+{
+name: "chapters",
+type: "STRING"
+},
+{
+name: "comments",
+type: "INT"
+},
+{
+name: "kudos",
+type: "INT"
+},
+{
+name: "bookmarks",
+type: "INT"
+},
+{
+name: "hits",
+type: "INT"
+}
+]
+}
